@@ -1,2 +1,4 @@
 # SQLsever-数据库迁移工具
-模拟生成脚本，目前sqlmoudles中definition与name不一致问题需更新
+模拟生成脚本，实现同服务器数据库复制及数据迁移
+目前sqlmoudles中definition与name不一致问题需更新
+细节详见说明文档
